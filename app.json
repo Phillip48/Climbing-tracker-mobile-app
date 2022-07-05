@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A climbing app to log your progress including but not limited to climbing and training sessions.",
+    "githubUrl": "https://github.com/Phillip48/Climbing-tracker-mobile-app"
   }
 }
